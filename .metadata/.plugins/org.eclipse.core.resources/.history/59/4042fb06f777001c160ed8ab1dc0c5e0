@@ -12,7 +12,7 @@ public class CoursoJava01 {
 	    
 	    area =(b + B) / 2.0 * h;
 		
-		System.out.print("Área do Trapésio =" + area + " Metros quadrados.");
+		System.out.print("Área do Trapésio ="+ area + "Metros quadrados");
 		
 
 	}
